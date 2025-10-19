@@ -1,0 +1,6 @@
+@GeoBlockAPI_HostAddress = http://localhost:5242
+
+GET {{GeoBlockAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

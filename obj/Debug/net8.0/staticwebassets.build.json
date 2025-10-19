@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x7lnxKRPyJ7zNNlEhN3i9L4dCEiO6xjwEKl5DVcKYtA=",
+  "Source": "GeoBlockAPI",
+  "BasePath": "_content/GeoBlockAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
